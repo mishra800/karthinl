@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.app_main{
+  display: flex;
+  justify-content: space-evenly;
+  padding: 20px 8%;
+}
+.task_column{
+  width: 33.33%;
+  background-color: tomato;
+  margin: 20px;
+
+}
